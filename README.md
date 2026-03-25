@@ -6,6 +6,8 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 **What is the Agentic Web?** The part of the internet where AI agents act autonomously — handling support, writing code, coordinating logistics, running research, and more.
 
+**Legend:** `OSS` = Open Source · `OSS-Core` = Open Core · `Mixed` = Mixed licensing · ⭐ = GitHub stars · Business model, target customer, founded year, and key tech shown where available.
+
 ## Contents
 
 - [💻 Code & Dev Agents](#code--dev-agents) (9)
@@ -35,8 +37,8 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 💻 Code & Dev Agents
 
-- [Cline Bot Inc.](https://agentcommunity.org/map/cline-bot-inc) `OSS` ⭐ 1,175 — *Startup Growth*
-- [Factory](https://agentcommunity.org/map/factory) ⭐ 209 — *Startup Growth*
+- [Cline Bot Inc.](https://agentcommunity.org/map/cline-bot-inc) `OSS` ⭐ 1,175 — AI coding agent with MCP integration, trusted by 5M+ devs. `Free` `Developer` `2024` `OpenAI, Anthropic, MCP`
+- [Factory](https://agentcommunity.org/map/factory) ⭐ 209 — Autonomous coding agents (Droids) for testing and deployment. `SaaS` `Enterprise` `2023` `OpenAI, Anthropic`
 - [Vly.ai](https://agentcommunity.org/map/vlyai) `Mixed` ⭐ 11
 - [TestDriver](https://agentcommunity.org/map/testdriver) ⭐ 1
 - [AceCoder](https://agentcommunity.org/map/acecoder)
@@ -49,7 +51,7 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 - [Yap](https://agentcommunity.org/map/yapwithai) ⭐ 13
 - [Text](https://agentcommunity.org/map/text-inc) ⭐ 5 — *Public Company*
-- [Replika](https://agentcommunity.org/map/replika) ⭐ 4 — *Scaleup*
+- [Replika](https://agentcommunity.org/map/replika) ⭐ 4 — AI companion chatbot with 2M+ users worldwide. `Freemium` `Consumer` `2017` `Proprietary LLM`
 - [Assembled](https://agentcommunity.org/map/assembled) ⭐ 1 — *Startup Growth*
 - [SalesMonk](https://agentcommunity.org/map/salesmonk) ⭐ 1
 - [DOO](https://agentcommunity.org/map/doo) — *Startup Growth*
@@ -66,8 +68,8 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 ## ⚙️ Workflow & Process
 
 - [AGI, Inc.](https://agentcommunity.org/map/agi-inc) ⭐ 153
-- [Attio](https://agentcommunity.org/map/attio) ⭐ 142 — *Startup Growth*
-- [Linear](https://agentcommunity.org/map/linear) ⭐ 85 — *Startup Growth*
+- [Attio](https://agentcommunity.org/map/attio) ⭐ 142 — AI-native CRM with flexible data model for GTM teams. `SaaS` `SMB` `2019` `OpenAI`
+- [Linear](https://agentcommunity.org/map/linear) ⭐ 85 — Beautifully fast project management for product teams. `SaaS` `Developer` `2019` `Proprietary`
 - [SourceWizard](https://agentcommunity.org/map/sourcewizard) ⭐ 34
 - [NetSpeek](https://agentcommunity.org/map/netspeek) ⭐ 17
 - [Plane](https://agentcommunity.org/map/plane) `OSS` ⭐ 15
@@ -98,7 +100,7 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 🎨 Creative & Media
 
-- [Denis Shiryaev Projects](https://agentcommunity.org/map/shir-mancom) `Mixed` ⭐ 2,821
+- [Denis Shiryaev Projects](https://agentcommunity.org/map/shir-mancom) `Mixed` ⭐ 2,821 — Neural.love: AI-powered vintage film restoration and upscaling. `Freemium` `Consumer` `2020` `Custom Neural Nets`
 - [Roam](https://agentcommunity.org/map/roam-app-inc) ⭐ 42
 - [Chaotic Good Engineering](https://agentcommunity.org/map/chaotic-good-engineering) `OSS` ⭐ 20
 - [Sourceful](https://agentcommunity.org/map/sourcefulcom) ⭐ 11 — *Startup Growth*
@@ -116,7 +118,7 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 🎙️ Voice & Conversational
 
-- [Vapi](https://agentcommunity.org/map/vapi) ⭐ 95 — *Startup Growth*
+- [Vapi](https://agentcommunity.org/map/vapi) ⭐ 95 — Voice AI platform for building phone call agents in minutes. `Usage-based` `Developer` `2020` `OpenAI, Anthropic, Deepgram`
 
 ## 📊 Data & Analytics
 
@@ -213,8 +215,8 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 ## 🏗️ Agent Platforms
 
 - [MindOne](https://agentcommunity.org/map/mindone) ⭐ 1,144
-- [AGNT](https://agentcommunity.org/map/bizop-media) ⭐ 717
-- [LobeHub](https://agentcommunity.org/map/lobehub-2) `OSS` ⭐ 131
+- [AGNT](https://agentcommunity.org/map/bizop-media) ⭐ 717 — All-in-one platform for building and hosting custom AI agents. `SaaS` `Developer` `2023` `OpenAI, Anthropic`
+- [LobeHub](https://agentcommunity.org/map/lobehub-2) `OSS` ⭐ 131 — Open-source multi-LLM chat framework with plugin ecosystem. `Free` `Developer` `2023` `OpenAI, Anthropic, Gemini, Ollama, Qwen`
 - [Operator](https://agentcommunity.org/map/operator) `OSS-Core` ⭐ 36
 - [Valet](https://agentcommunity.org/map/valet) ⭐ 22
 - [Maisa AI](https://agentcommunity.org/map/maisa-ai) ⭐ 13
@@ -223,7 +225,7 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 - [ImageAt](https://agentcommunity.org/map/imageat) ⭐ 5 — *Startup Growth*
 - [Triform](https://agentcommunity.org/map/triformai) ⭐ 5
 - [Soorma.ai](https://agentcommunity.org/map/soormaai) `OSS` ⭐ 4
-- [Lindy](https://agentcommunity.org/map/lindy) ⭐ 2
+- [Lindy](https://agentcommunity.org/map/lindy) ⭐ 2 — No-code AI assistant for email, calendar, and workflow automation. `SaaS` `SMB` `2023` `OpenAI, Anthropic`
 - [Open Parachute](https://agentcommunity.org/map/open-parachute) `OSS` ⭐ 2
 - [Thinkable](https://agentcommunity.org/map/thinkableco) ⭐ 2
 - [Bitte.ai](https://agentcommunity.org/map/bitteai)
@@ -240,11 +242,11 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 ## 🔧 Tool & API Layer
 
 - [Viritai](https://agentcommunity.org/map/viritai) `OSS` ⭐ 445
-- [Twilio](https://agentcommunity.org/map/twilio) ⭐ 178 — *Public Company*
+- [Twilio](https://agentcommunity.org/map/twilio) ⭐ 178 — The cloud communications API powering SMS, voice, and video. `Usage-based` `Enterprise` `2008` `Multi-provider`
 - [A1Base](https://agentcommunity.org/map/a1base) ⭐ 68
 - [OpenTools](https://agentcommunity.org/map/opentools) ⭐ 65
 - [Talent Protocol](https://agentcommunity.org/map/talent-protocol) `OSS` ⭐ 31 — *Startup Growth*
-- [Sourcegraph](https://agentcommunity.org/map/sourcegraph) ⭐ 23 — *Scaleup*
+- [Sourcegraph](https://agentcommunity.org/map/sourcegraph) ⭐ 23 — Code search and AI coding assistant (Cody) for large codebases. `Open-core` `Enterprise` `2013` `OpenAI, Anthropic`
 - [Merit Systems](https://agentcommunity.org/map/merit-systems) `OSS` ⭐ 20
 - [Toolbase](https://agentcommunity.org/map/toolbase) `OSS-Core` ⭐ 19
 - [JigsawStack](https://agentcommunity.org/map/jigsawstack) ⭐ 13
@@ -252,18 +254,18 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 - [Plugged.in](https://agentcommunity.org/map/veriteknik) ⭐ 3
 - [Danizord](https://agentcommunity.org/map/danizord) `OSS` ⭐ 2
 - [Flow Monitors](https://agentcommunity.org/map/grabbit) ⭐ 2
-- [Apify](https://agentcommunity.org/map/apify) `OSS-Core` ⭐ 1 — *Scaleup*
+- [Apify](https://agentcommunity.org/map/apify) `OSS-Core` ⭐ 1 — Marketplace of 21K+ web scrapers and automation actors. `Freemium` `Developer` `2015` `OpenAI, LangChain`
 - [Sequentum](https://agentcommunity.org/map/sequentum) ⭐ 1 — *Scaleup*
 - [Bear](https://agentcommunity.org/map/bear)
-- [Composio](https://agentcommunity.org/map/composio)
+- [Composio](https://agentcommunity.org/map/composio) — 250+ tool integrations for AI agents with managed auth. `Usage-based` `Developer` `2023` `OpenAI, Anthropic, LangChain`
 - [Joyride](https://agentcommunity.org/map/joyride)
 - [Terminal Research](https://agentcommunity.org/map/terminalexchange)
 
 ## 🧠 Model Providers
 
-- [Ollama](https://agentcommunity.org/map/ollama) `OSS` ⭐ 179,128
-- [Alibaba Group](https://agentcommunity.org/map/alibaba-group) `Mixed` ⭐ 171 — *Public Company*
-- [Together AI](https://agentcommunity.org/map/together-ai) ⭐ 121 — *Startup Growth*
+- [Ollama](https://agentcommunity.org/map/ollama) `OSS` ⭐ 179,128 — Run LLMs locally with one command, no cloud needed. `Free` `Developer` `2023` `Llama, Mistral, Gemma, Qwen, Phi`
+- [Alibaba Group](https://agentcommunity.org/map/alibaba-group) `Mixed` ⭐ 171 — Qwen open-weight LLM series trained on 119 languages. `API` `Enterprise` `1999` `Qwen, Tongyi`
+- [Together AI](https://agentcommunity.org/map/together-ai) ⭐ 121 — Fastest inference API for open-source models at scale. `Usage-based` `Developer` `2022` `Llama, Mistral, Mixtral, DeepSeek`
 - [The Grid](https://agentcommunity.org/map/thegridai)
 
 ## ☁️ Agent Compute
@@ -271,12 +273,12 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 - [Genesis AI](https://agentcommunity.org/map/genesis-ai) `OSS` ⭐ 186
 - [Vistara](https://agentcommunity.org/map/vistara) ⭐ 25
 - [Agentuity](https://agentcommunity.org/map/agentuity) ⭐ 23
-- [Coder Technologies, Inc.](https://agentcommunity.org/map/coder-technologies-inc) `OSS-Core` ⭐ 23 — *Scaleup*
+- [Coder Technologies, Inc.](https://agentcommunity.org/map/coder-technologies-inc) `OSS-Core` ⭐ 23 — Self-hosted cloud dev environments with agent sandboxes. `Open-core` `Enterprise` `2017` `Multi-provider`
 - [Microsandbox](https://agentcommunity.org/map/microsandbox) `OSS` ⭐ 18
 - [Gensyn](https://agentcommunity.org/map/gensyn) ⭐ 16 — *Startup Growth*
 - [NodeOps](https://agentcommunity.org/map/nodeops) ⭐ 16
 - [Mason Williams](https://agentcommunity.org/map/mason-williams) ⭐ 15
-- [Netlify](https://agentcommunity.org/map/netlify) ⭐ 11 — *Scaleup*
+- [Netlify](https://agentcommunity.org/map/netlify) ⭐ 11 — Web hosting platform now adding AI agent deployment primitives. `Freemium` `Developer` `2014` `Multi-provider`
 - [NEAR AI](https://agentcommunity.org/map/near-ai) `Mixed` ⭐ 8 — *Scaleup*
 - [SWARM Protocol](https://agentcommunity.org/map/swarm-protocol) `OSS` ⭐ 7
 - [Taubyte](https://agentcommunity.org/map/taubyte) `OSS` ⭐ 4
@@ -290,9 +292,9 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 💾 Memory & State
 
-- [Electric](https://agentcommunity.org/map/electric) `OSS-Core` ⭐ 406 — *Startup Growth*
+- [Electric](https://agentcommunity.org/map/electric) `OSS-Core` ⭐ 406 — Postgres sync engine for real-time collaborative and multi-agent apps. `Open-core` `Developer` `2021` `Postgres, PGlite`
 - [Brief](https://agentcommunity.org/map/brief) ⭐ 68
-- [Cognee](https://agentcommunity.org/map/cognee) `OSS` ⭐ 21
+- [Cognee](https://agentcommunity.org/map/cognee) `OSS` ⭐ 21 — Open-source AI memory engine using knowledge graphs. `Open-core` `Developer` `2024` `OpenAI, Anthropic`
 - [Plastic Labs](https://agentcommunity.org/map/plastic-labs) ⭐ 17
 - [WordLift](https://agentcommunity.org/map/wordlift-2) ⭐ 3 — *Scaleup*
 - [AI One](https://agentcommunity.org/map/ai-one)
@@ -304,9 +306,9 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 📚 RAG & Retrieval
 
-- [Brave](https://agentcommunity.org/map/brave) `OSS-Core` ⭐ 902 — *Scaleup*
+- [Brave](https://agentcommunity.org/map/brave) `OSS-Core` ⭐ 902 — Privacy-first search engine with Search API for AI agents. `Freemium` `Developer` `2015` `Independent index`
 - [Moss](https://agentcommunity.org/map/moss) ⭐ 124
-- [MindsDB](https://agentcommunity.org/map/mindsdb) `OSS-Core` ⭐ 110 — *Startup Growth*
+- [MindsDB](https://agentcommunity.org/map/mindsdb) `OSS-Core` ⭐ 110 — AI analytics platform connecting LLMs directly to enterprise data. `Open-core` `Enterprise` `2018` `OpenAI, Anthropic, Hugging Face`
 - [UpRock](https://agentcommunity.org/map/uprock) ⭐ 95
 - [Desearch AI](https://agentcommunity.org/map/desearch-ai) `OSS` ⭐ 6
 - [LargitData](https://agentcommunity.org/map/largitdata) ⭐ 3 — *Scaleup*
@@ -316,10 +318,10 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 👁️ Observability & Evals
 
-- [LastMile AI](https://agentcommunity.org/map/lastmile-ai) ⭐ 9,799
-- [Kiln AI](https://agentcommunity.org/map/kiln-ai) `OSS-Core` ⭐ 4,748
-- [Langfuse](https://agentcommunity.org/map/langfuse) `OSS` ⭐ 425
-- [Datadog](https://agentcommunity.org/map/datadog) `Mixed` ⭐ 7 — *Public Company*
+- [LastMile AI](https://agentcommunity.org/map/lastmile-ai) ⭐ 9,799 — AutoEval: create custom evaluator models for testing GenAI. `Freemium` `Developer` `2023` `OpenAI, Anthropic`
+- [Kiln AI](https://agentcommunity.org/map/kiln-ai) `OSS-Core` ⭐ 4,748 — Local-first tool for evals, fine-tuning, and synthetic data. `Free` `Developer` `2024` `OpenAI, Anthropic, Ollama, MCP`
+- [Langfuse](https://agentcommunity.org/map/langfuse) `OSS` ⭐ 425 — Open-source LLM observability with traces, evals, and prompts. `Open-core` `Developer` `2023` `OpenAI, Anthropic, LangChain`
+- [Datadog](https://agentcommunity.org/map/datadog) `Mixed` ⭐ 7 — Cloud monitoring giant adding LLM observability features. `Usage-based` `Enterprise` `2010` `Multi-provider`
 - [Agnost AI](https://agentcommunity.org/map/agnost-ai) ⭐ 1
 - [ClariTrace](https://agentcommunity.org/map/claritrace)
 - [Nur Opus](https://agentcommunity.org/map/nur-opus)
@@ -347,7 +349,7 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 📡 Agent Protocols
 
-- [Hashgraph Online](https://agentcommunity.org/map/hashgraph-online) `OSS` ⭐ 415 — *Nonprofit Foundation*
+- [Hashgraph Online](https://agentcommunity.org/map/hashgraph-online) `OSS` ⭐ 415 — Decentralized agent identity and commerce via Hedera + MCP. `Free` `Developer` `2023` `Hedera, MCP, x402`
 - [Ask Network](https://agentcommunity.org/map/ask-network) `OSS` ⭐ 9
 - [Regent Platform](https://agentcommunity.org/map/regent) ⭐ 4
 
@@ -359,20 +361,20 @@ Sourced from the [.agent Community Map](https://agentcommunity.org/map) with add
 
 ## 📦 Emerging & Uncategorized
 
-- [Paperclip](https://agentcommunity.org/map/paperclip) ⭐ 29,136 — *Scaleup*
+- [Paperclip](https://agentcommunity.org/map/paperclip) ⭐ 29,136 — Open-source orchestration for zero-human AI companies. `Free` `Developer` `2025` `OpenAI, Anthropic, MCP`
 - [Darkport Technologies Limited](https://agentcommunity.org/map/darkport) `OSS` ⭐ 6,803
-- [Grab](https://agentcommunity.org/map/grab) ⭐ 6,563 — *Public Company*
-- [Geoman](https://agentcommunity.org/map/geoman) `Mixed` ⭐ 2,486 — *Scaleup*
-- [Expo](https://agentcommunity.org/map/expo) `OSS-Core` ⭐ 1,492 — *Scaleup*
+- [Grab](https://agentcommunity.org/map/grab) ⭐ 6,563 — Southeast Asia superapp now integrating AI across services. `Marketplace` `Consumer` `2012` `Proprietary`
+- [Geoman](https://agentcommunity.org/map/geoman) `Mixed` ⭐ 2,486 — Leaflet geometry editing plugin, active since 2014. `Open-core` `Developer` `2014` `N/A (GIS)`
+- [Expo](https://agentcommunity.org/map/expo) `OSS-Core` ⭐ 1,492 — React Native framework powering cross-platform mobile apps. `Freemium` `Developer` `2013` `N/A (React Native)`
 - [Parsec](https://agentcommunity.org/map/parsec) ⭐ 1,089 — *Hyperscaler*
 - [Domain Terrier](https://agentcommunity.org/map/domain-terrier) ⭐ 1,009
-- [Resend](https://agentcommunity.org/map/resend) `OSS-Core` ⭐ 567
+- [Resend](https://agentcommunity.org/map/resend) `OSS-Core` ⭐ 567 — Developer-first email API with React Email integration. `Freemium` `Developer` `2022` `N/A (Email)`
 - [Yellow House](https://agentcommunity.org/map/utxo-ag) ⭐ 457 — *Consulting Agency*
 - [One Mint](https://agentcommunity.org/map/one-mint) ⭐ 450 — *Startup Growth*
 - [Qwikyo](https://agentcommunity.org/map/qwikyo-inc) ⭐ 393
 - [Tradepost](https://agentcommunity.org/map/backstagelol) ⭐ 295
-- [Convex](https://agentcommunity.org/map/convex) ⭐ 203 — *Startup Growth*
-- [DuckDuckGo](https://agentcommunity.org/map/duckcom) ⭐ 194 — *Scaleup*
+- [Convex](https://agentcommunity.org/map/convex) ⭐ 203 — Reactive real-time backend database for AI-native apps. `Freemium` `Developer` `2021` `OpenAI`
+- [DuckDuckGo](https://agentcommunity.org/map/duckcom) ⭐ 194 — Privacy-focused search engine with AI chat features. `Free` `Consumer` `2008` `OpenAI, Anthropic, Llama`
 - [EOA Blockchain Labs](https://agentcommunity.org/map/eoa-blockchain-labs) `OSS` ⭐ 149
 - [FlintSH](https://agentcommunity.org/map/flintsh) `OSS` ⭐ 144
 - [Mid Air Circus Arts Co., Ltd.](https://agentcommunity.org/map/mid-air-circus-arts-co-ltd) ⭐ 141 — *Scaleup*
@@ -645,6 +647,7 @@ PRs welcome! To add a company:
 | Open core | 17 |
 | With GitHub stars | 185 |
 | Stars > 1,000 | 14 |
+| Enriched with business data | 35 |
 
 ## License
 
@@ -685,42 +688,3 @@ Maintained by the community. PRs welcome.
 | 🇹🇷 Turkey | 5 |
 
 > US dominates (42%), but Europe (35%) is a strong second. The agentic web is not just a Silicon Valley phenomenon.
-
-## 🏢 Organization Types
-
-| Type | Count | % |
-|------|-------|---|
-| 🌱 Startup (Early) | 228 | 43% |
-| 🏢 Consulting / Agency | 85 | 16% |
-| 📈 Scaleup | 73 | 14% |
-| 🚀 Startup (Growth) | 51 | 10% |
-| 👤 Solo / Independent | 41 | 8% |
-| 🏛️ Public Company | 11 | 2% |
-| 🤝 Nonprofit / Foundation | 10 | 2% |
-| 💰 VC / Investor | 9 | 2% |
-| 🎓 University | 8 | 2% |
-| 🚀 Accelerator | 4 | 1% |
-| 🏛️ Government | 3 | 1% |
-
-> 53% are startups (early + growth). The agentic web is being built by small teams, not big companies.
-
-## 📊 Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Total companies | 664 |
-| Countries represented | 57 |
-| Open source projects | 47 (7%) |
-| Open core projects | 17 (3%) |
-| With GitHub presence | 185 (28%) |
-| GitHub stars > 1,000 | 14 |
-| GitHub stars > 10,000 | 3 |
-| Startups (early + growth) | 279 (53%) |
-| Public companies | 11 (2%) |
-
-## 🔗 Related Resources
-
-- [.agent Community Map](https://agentcommunity.org/map) — the interactive version (requires signup)
-- [MAD Landscape 2025](https://mad.firstmark.com/) — ML/AI/Data landscape by FirstMark (1,400+ companies)
-- [CB Insights AI Agent Market Map](https://www.cbinsights.com/research/ai-agent-market-map/) — 400+ agent startups in 16 categories
-- [awesome-agent-services](https://github.com/farol-team/awesome-agent-services) — services designed for AI agents (infrastructure focus)
