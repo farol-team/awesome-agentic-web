@@ -650,7 +650,7 @@ PRs welcome! To add a company:
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Maintained by [Farol Labs](https://farol.io) · [GNAP](https://github.com/farol-team/gnap) · [Ori](https://cofounder.run)
+Maintained by the community. PRs welcome.
 
 ## 🌍 Geography
 

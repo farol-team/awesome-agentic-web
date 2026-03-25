@@ -61,12 +61,6 @@ _Last updated: 2026-03-25_
 - **Paperclip** — open-source, early stage
 - **Apify** — mostly bootstrapped ($3M seed, but $13.3M ARR)
 
-### 📊 Relevance to Us (Paperclip/Farol)
-- **Direct competitors** (agent platforms): Lindy ($49.9M), Julep AI (small seed) — our space is fundable
-- **Adjacent tools** we integrate with: Composio ($25M), Langfuse ($4.5M) — partner opportunities
-- **Coding agents** (comparable motion): Cline ($27M, $110M val), Factory ($65M, $300M val) — market is hot
-- **Infrastructure** we depend on: Together AI ($534M), Gensyn ($51M) — well-funded providers
-
 ### 🎯 Investor Patterns
 - **Sequoia** → Linear, Factory (likes dev tools)
 - **a16z** → Gensyn (likes decentralized infra)
