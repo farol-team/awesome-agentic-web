@@ -685,3 +685,42 @@ Maintained by the community. PRs welcome.
 | 🇹🇷 Turkey | 5 |
 
 > US dominates (42%), but Europe (35%) is a strong second. The agentic web is not just a Silicon Valley phenomenon.
+
+## 🏢 Organization Types
+
+| Type | Count | % |
+|------|-------|---|
+| 🌱 Startup (Early) | 228 | 43% |
+| 🏢 Consulting / Agency | 85 | 16% |
+| 📈 Scaleup | 73 | 14% |
+| 🚀 Startup (Growth) | 51 | 10% |
+| 👤 Solo / Independent | 41 | 8% |
+| 🏛️ Public Company | 11 | 2% |
+| 🤝 Nonprofit / Foundation | 10 | 2% |
+| 💰 VC / Investor | 9 | 2% |
+| 🎓 University | 8 | 2% |
+| 🚀 Accelerator | 4 | 1% |
+| 🏛️ Government | 3 | 1% |
+
+> 53% are startups (early + growth). The agentic web is being built by small teams, not big companies.
+
+## 📊 Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Total companies | 664 |
+| Countries represented | 57 |
+| Open source projects | 47 (7%) |
+| Open core projects | 17 (3%) |
+| With GitHub presence | 185 (28%) |
+| GitHub stars > 1,000 | 14 |
+| GitHub stars > 10,000 | 3 |
+| Startups (early + growth) | 279 (53%) |
+| Public companies | 11 (2%) |
+
+## 🔗 Related Resources
+
+- [.agent Community Map](https://agentcommunity.org/map) — the interactive version (requires signup)
+- [MAD Landscape 2025](https://mad.firstmark.com/) — ML/AI/Data landscape by FirstMark (1,400+ companies)
+- [CB Insights AI Agent Market Map](https://www.cbinsights.com/research/ai-agent-market-map/) — 400+ agent startups in 16 categories
+- [awesome-agent-services](https://github.com/farol-team/awesome-agent-services) — services designed for AI agents (infrastructure focus)
