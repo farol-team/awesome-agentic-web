@@ -651,3 +651,37 @@ PRs welcome! To add a company:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Maintained by [Farol Labs](https://farol.io) · [GNAP](https://github.com/farol-team/gnap) · [Ori](https://cofounder.run)
+
+## 🌍 Geography
+
+| Region | Companies |
+|--------|-----------|
+| 🇺🇸 North America | 187 |
+| 🇪🇺 Europe | 148 |
+| 🌏 Asia-Pacific | 57 |
+| 🌍 Middle East & Africa | 26 |
+| 🌎 Latin America | 11 |
+
+### Top Countries
+
+| Country | Count |
+|---------|-------|
+| 🇺🇸 United States | 181 |
+| 🇬🇧 United Kingdom | 34 |
+| 🇩🇪 Germany | 25 |
+| 🇫🇷 France | 16 |
+| 🇮🇳 India | 15 |
+| 🇮🇱 Israel | 4 |
+| 🇸🇬 Singapore | 7 |
+| 🇨🇳 China | 7 |
+| 🇮🇹 Italy | 7 |
+| 🇪🇸 Spain | 7 |
+| 🇯🇵 Japan | 6 |
+| 🇸🇪 Sweden | 6 |
+| 🇨🇦 Canada | 6 |
+| 🇦🇺 Australia | 5 |
+| 🇦🇪 UAE | 5 |
+| 🇹🇭 Thailand | 5 |
+| 🇹🇷 Turkey | 5 |
+
+> US dominates (42%), but Europe (35%) is a strong second. The agentic web is not just a Silicon Valley phenomenon.
